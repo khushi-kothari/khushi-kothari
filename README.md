@@ -8,13 +8,13 @@
 <h2 align = "left"> About Me 👩‍💻 </h2>
 <h3> CS student | Aspiring Frontend Developer | Javascript_coder </h3>
 
-- 👩‍🎓I'm a ICT engineering undergrad at Adani Institute of Infrastructure Engineering.
-- 📁I'm a tech enthusiast and a self taught programmer.
-- 🌱 I’m currently learning ReactJs.
-- 📘I'm currently into web development and Javascript programming.
+- 👩‍🎓 I'm an ICT engineering undergrad at Adani Institute of Infrastructure Engineering.
+- 📁 I'm a tech enthusiast and a self taught programmer.
+- 🌱 I’m currently exploring field of Data Science.
+- 📘 I'm currently into web development.
 - 👯 I’m looking to collaborate with other programmers for small projects.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love to draw and do classical dance.
+- 🥅 2022 Goals: Contribute more to Open Source projects.
+- ⚡  Fun fact: I love to draw and do classical dance.
 </br>
 </br>
 
