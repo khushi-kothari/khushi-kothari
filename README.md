@@ -6,15 +6,16 @@
 </br>
 
 <h2 align = "left"> About Me 👩‍💻 </h2>
-<h3> CS student | Aspiring Frontend Developer | Javascript_coder </h3>
+<h3>  Product Designer | Frontend Engineer | React_Developer | UX Researcher </h3>
 
-- 👩‍🎓 I'm an ICT engineering undergrad at Adani Institute of Infrastructure Engineering.
-- 📁 I'm a tech enthusiast and a self taught programmer.
-- 🌱 I’m currently exploring field of Data Science.
+- 👩‍🎓 I'm an Information, Communication and Technology engineering student.
+- 📁 I'm a tech enthusiast and I have a good eye for design.
+- 🌱 I’m currently exploring field of Product Designer.
 - 📘 I'm currently into web development.
-- 👯 I’m looking to collaborate with other programmers for small projects.
-- 🥅 2022 Goals: Contribute more to Open Source projects.
-- ⚡  Fun fact: I love to draw and do classical dance.
+- 👯 I’m looking to collaborate with other programmers for some big design + web projects.
+- 🥅 2023 Goals: Learn more about Design, User Experience, User Research and dive deeper into technologies for frontend stack.
+- ⚡  Fun fact: I am currently into Meditation and learning about Buddha's teachings while staying in Thailand!
+
 </br>
 </br>
 
