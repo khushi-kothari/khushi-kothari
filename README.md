@@ -6,7 +6,7 @@
 </br>
 
 <h2 align = "left"> About Me 👩‍💻 </h2>
-<h3>  Product Designer | Frontend Engineer | React_Developer | UX Researcher </h3>
+<h3>  Product Designer | Frontend Engineer | React Developer | UX Researcher </h3>
 
 - 👩‍🎓 I'm an Information, Communication and Technology engineering student.
 - 📁 I'm a tech enthusiast and I have a good eye for design.
