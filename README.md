@@ -53,7 +53,7 @@
 
 <h3>Connect with me 🤝:</h3>
  <a href="https://twitter.com/KhushiKothari19" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/twitter.png" width="50" /></a>  
- <a href="https://www.instagram.com/codergurl/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/instagram-new.png" width="50" /></a>  
+ <a href="https://www.instagram.com/khushikothari19/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/instagram-new.png" width="50" /></a>  
  <a href="https://www.linkedin.com/in/khushi-kothari/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/linkedin.png" width="50" /></a>
  <a href="mailto:khushikothari.ict19@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/gmail.png"  width="50" /></a>
 <br> <br>
