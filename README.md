@@ -17,6 +17,7 @@
 - ⚡  Fun fact: I am currently into Meditation and learning about Buddha's teachings while staying in Thailand!
 
 </br>
+[![An image of @khushikothari's Holopin badges, which is a link to view their full Holopin profile](https://i.imgur.com/C6trqKr.png)](https://holopin.io/@khushikothari)
 </br>
 
 <h3> Web Development</h3>
