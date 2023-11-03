@@ -17,7 +17,9 @@
 - ⚡  Fun fact: I am currently into Meditation and learning about Buddha's teachings while staying in Thailand!
 
 </br>
-[![An image of @khushikothari's Holopin badges, which is a link to view their full Holopin profile](https://i.imgur.com/C6trqKr.png)](https://holopin.io/@khushikothari)
+My Hacktoberfest 2023 achievements: https://www.holopin.io/@khushikothari#
+<img width="1440" alt="Screenshot 2023-11-03 at 1 52 31 PM" src="https://github.com/khushi-kothari/khushi-kothari/assets/62203565/3f970cb4-f215-4341-86e2-ba1ddf0d07b4">
+
 </br>
 
 <h3> Web Development</h3>
