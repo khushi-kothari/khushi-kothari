@@ -18,8 +18,9 @@
 
 </br>
 My Hacktoberfest 2023 achievements: https://www.holopin.io/@khushikothari#
+</br>
+</br>
 <img width="1440" alt="Screenshot 2023-11-03 at 1 52 31 PM" src="https://github.com/khushi-kothari/khushi-kothari/assets/62203565/3f970cb4-f215-4341-86e2-ba1ddf0d07b4">
-
 </br>
 
 <h3> Web Development</h3>
