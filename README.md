@@ -66,6 +66,6 @@ My Hacktoberfest 2023 achievements: https://www.holopin.io/@khushikothari#
 ---
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=khushi-kothari&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=khushi-kothari&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=khushi-kothari&show_icons=true&theme=default" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=khushi-kothari&theme=swift" />
 </p>
