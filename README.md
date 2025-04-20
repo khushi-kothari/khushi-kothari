@@ -2,7 +2,7 @@
 <h2>I'm Khushi Kothari <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img src="https://komarev.com/ghpvc/?username=khushi-kothari" alt="visits" />
 </br>
-<p align="center"><img src="https://pbs.twimg.com/media/EzzKAglWUAAd9WX?format=jpg&name=large" alt="cover page"/></p>
+<p align="center"><img src="https://i.ibb.co/yF2qXWRb/Cover-Image.png" alt="Cover-Image" border="0"></p>
 </br>
 
 <h2 align = "left"> About Me 👩‍💻 </h2>
