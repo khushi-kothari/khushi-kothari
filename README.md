@@ -13,6 +13,15 @@
 - 🌱 2025 Goal: Cultivate mindfulness, consistency, and a detoxed lifestyle.
 - 🤝 Open to collaborations on holistic web projects that bridge design and well-being. 
 - ⚡  Fun fact: I’m deeply introspective and love analyzing the “why” behind things—whether it’s user behavior or my own mind.
+- My Hacktoberfest 2023 [achievements](https://www.holopin.io/@khushikothari#).
+- Find my works [here](https://khushi-kothari-portfolio.vercel.app/).
+
+<!-- </br>
+My Hacktoberfest 2023 achievements: https://www.holopin.io/@khushikothari#
+</br>
+</br>
+<img width="1440" alt="Screenshot 2023-11-03 at 1 52 31 PM" src="https://github.com/khushi-kothari/khushi-kothari/assets/62203565/3f970cb4-f215-4341-86e2-ba1ddf0d07b4">
+</br> -->
 
 <h3> Web Development</h3>
 <img align="left" alt="HTML5" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -74,10 +83,3 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=khushi-kothari&show_icons=true&theme=default" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=khushi-kothari&theme=default" />
 </p>
-
-</br>
-My Hacktoberfest 2023 achievements: https://www.holopin.io/@khushikothari#
-</br>
-</br>
-<img width="1440" alt="Screenshot 2023-11-03 at 1 52 31 PM" src="https://github.com/khushi-kothari/khushi-kothari/assets/62203565/3f970cb4-f215-4341-86e2-ba1ddf0d07b4">
-</br>
