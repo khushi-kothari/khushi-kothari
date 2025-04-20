@@ -14,13 +14,6 @@
 - 🤝 Open to collaborations on holistic web projects that bridge design and well-being. 
 - ⚡  Fun fact: I’m deeply introspective and love analyzing the “why” behind things—whether it’s user behavior or my own mind.
 
-</br>
-My Hacktoberfest 2023 achievements: https://www.holopin.io/@khushikothari#
-</br>
-</br>
-<img width="1440" alt="Screenshot 2023-11-03 at 1 52 31 PM" src="https://github.com/khushi-kothari/khushi-kothari/assets/62203565/3f970cb4-f215-4341-86e2-ba1ddf0d07b4">
-</br>
-
 <h3> Web Development</h3>
 <img align="left" alt="HTML5" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -62,9 +55,9 @@ My Hacktoberfest 2023 achievements: https://www.holopin.io/@khushikothari#
   </br>
   </br>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://user-images.githubusercontent.com/624760/87853370-37690080-c901-11ea-8207-5ad27ce5f7b8.gif" alt="Github Swag" />
-</p>
+</p> -->
 
 
 <h3>Connect with me 🤝:</h3>
@@ -74,9 +67,17 @@ My Hacktoberfest 2023 achievements: https://www.holopin.io/@khushikothari#
  <a href="mailto:khushikothari.ict19@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/gmail.png"  width="50" /></a>
 <br> <br>
 
+
 ---
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=khushi-kothari&show_icons=true&theme=default" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=khushi-kothari&theme=default" />
 </p>
+
+</br>
+My Hacktoberfest 2023 achievements: https://www.holopin.io/@khushikothari#
+</br>
+</br>
+<img width="1440" alt="Screenshot 2023-11-03 at 1 52 31 PM" src="https://github.com/khushi-kothari/khushi-kothari/assets/62203565/3f970cb4-f215-4341-86e2-ba1ddf0d07b4">
+</br>
